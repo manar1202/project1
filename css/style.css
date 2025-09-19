@@ -27,8 +27,7 @@ body{
     position: fixed;
     top: 0;
     height: 53px;
-     opacity:0.7 ;
-     background-color: rgb(0, 3, 40);
+     background-color: rgba(0, 3, 40,0.7);
       border-radius: 3px;
      z-index: 100;
   }  
